@@ -30,5 +30,5 @@ Used random forest regressor scored with mean absolute error. Decided random for
 
 **Model Perfomance**: MAE = 213,391.62
 
-**Productionization**
+## Production
 Used Flask API tutorial in references section to build API that inputs an array of real estate data and returns a sale price estimate
