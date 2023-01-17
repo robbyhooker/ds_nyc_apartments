@@ -16,3 +16,8 @@
 * Removed missing value columns from sale price, land, and gross square feet
 * Removed time stamp from date column and engineered month sold feature
 * Cleaned sale price column using quantile outliers
+
+## EDA
+Visualized data to gain insight, mostly on categorical values
+
+![alt text](https://github.com/robbyhooker/ds_nyc_apartments/raw/master/month_vs_price.png)
