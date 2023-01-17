@@ -21,3 +21,14 @@
 Visualized data to gain insight, mostly on categorical values
 
 ![alt text](https://github.com/robbyhooker/ds_nyc_apartments/raw/master/month_vs_price.png)
+![alt text](https://github.com/robbyhooker/ds_nyc_apartments/raw/master/unit_vs_price.png)
+
+## Model Building
+Created dummy variables for all categorical data, ended up with 350+ variables
+
+Used random forest regressor scored with mean absolute error. Decided random forest would work best because data was high dimensional
+
+**Model Perfomance**: MAE = 213,391.62
+
+**Productionization**
+Used Flask API tutorial in references section to build API that inputs an array of real estate data and returns a sale price estimate
