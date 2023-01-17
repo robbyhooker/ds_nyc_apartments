@@ -20,8 +20,8 @@
 ## EDA
 Visualized data to gain insight, mostly on categorical values
 
-![alt text](https://github.com/robbyhooker/ds_nyc_apartments/raw/master/month_vs_price.png)
-![alt text](https://github.com/robbyhooker/ds_nyc_apartments/raw/master/unit_vs_price.png)
+![alt text](https://github.com/robbyhooker/ds_nyc_apartments/raw/master/price_unit.jpg)
+![alt text](https://github.com/robbyhooker/ds_nyc_apartments/raw/master/price_month.jpg)
 
 ## Model Building
 Created dummy variables for all categorical data, ended up with 350+ variables
